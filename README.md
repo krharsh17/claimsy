@@ -4,6 +4,8 @@
 
 A GitHub App built with [Probot](https://github.com/probot/probot) that helps maintainers by automatically assigning willing contributors to issues! 🎉
 
+[![Install Button](https://img.shields.io/badge/install-now-orange?style=for-the-badge)](https://github.com/apps/claimsy)
+
 ## How does it work?
 
 **Step 1** 👨‍💻 - A willing user comments on an issue with phrases like "Please assign me" or "I'd like to work on this"
