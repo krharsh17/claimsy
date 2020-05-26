@@ -17,7 +17,7 @@ A GitHub App built with [Probot](https://github.com/probot/probot) that helps ma
 
 ## How do I get it running?
 
-- Simply go to the app listing and click the install button
+- Simply go to the [app listing](https://github.com/apps/claimsy) and click the install button
 - Choose your account & repository, and install the app!
 - Optionally, you can provide a `.github/claimsy.yml` in your repo to customize some features of the app
 
