@@ -42,11 +42,15 @@ assignCommands:
 # Remember to put in the term USERNAME as a placeholder for the @mentions that will be made in comments
 ```
 
-Clarification:
+Note:
 > To handle a comment such as 'assign this issue to @krharsh17', make sure to include 'assign this issue to USERNAME' in your `assignCommands` list. The keyword USERNAME is mandatory and to be used as is for placeholder of @mentions
 
 
-## Setup
+## How to hack this?
+
+- Clone the repo
+- Make sure to have Node installed on your system
+- Run the following commands in a terminal inside the cloned repo:
 
 ```sh
 # Install dependencies
@@ -58,7 +62,7 @@ npm start
 
 ## Contributing
 
-If you have suggestions for how claim-issue-probot could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
+If you have suggestions for how Claimsy could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
 
 For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
